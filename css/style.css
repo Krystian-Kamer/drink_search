@@ -74,6 +74,7 @@ ul {
 }
 
 li {
+	display: flex;
 	padding: 8px 30px;
 	border-bottom: 1px solid rgb(226, 226, 226);
 }
